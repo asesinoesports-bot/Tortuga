@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective Date:** 24th August
+**Effective Date:** 24th August 2026
 
 ## 1. Acceptance
 By inviting the Anar Bot ("the Bot") to your Discord server or interacting with it, you agree to abide by these Terms of Service. If you do not agree, you must remove the Bot from your server and cease all interaction with it.
