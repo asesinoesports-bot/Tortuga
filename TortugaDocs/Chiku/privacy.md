@@ -1,18 +1,18 @@
-# Chiku Privacy Policy
+# Chiku  Privacy Policy
 
 **Effective Date:** August 2026
 
 ## 1. Introduction
 
-Chiku ("the Bot") is a Discord application developed to manage competitive esports scrims and events. This Privacy Policy explains what information is collected, why it is collected, how it is used, and the choices available to users.
+Chiku  ("the Bot") is a Discord application developed to manage competitive esports scrims and events. This Privacy Policy explains what information is collected, why it is collected, how it is used, and the choices available to users.
 
-By using Chiku, you agree to the practices described in this Privacy Policy.
+By using Chiku , you agree to the practices described in this Privacy Policy.
 
 ---
 
 ## 2. Information We Collect
 
-To provide its functionality, Chiku may collect and process:
+To provide its functionality, Chiku  may collect and process:
 
 - Discord User ID
 - Discord Server (Guild) ID
@@ -26,7 +26,7 @@ To provide its functionality, Chiku may collect and process:
 - Workflow execution state
 - Operational logs necessary for reliability and crash recovery
 
-### Chiku does **NOT** collect:
+### Chiku  does **NOT** collect:
 
 - Private Direct Messages (DMs)
 - Voice communications
@@ -102,7 +102,7 @@ Users may request:
 - Correction of stored information
 - Information regarding stored data
 
-Requests can be made through the official Chiku support server.
+Requests can be made through the official Chiku  support server.
 
 ---
 
@@ -116,7 +116,7 @@ The Bot is not directed toward children under the age required by Discord's Term
 
 This Privacy Policy may be updated periodically.
 
-Continued use of Chiku constitutes acceptance of any revisions.
+Continued use of Chiku  constitutes acceptance of any revisions.
 
 ---
 
